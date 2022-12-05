@@ -6,7 +6,7 @@ Run the file main.m
 
 just by changing the parameters of
 
-database in the first block
+database in the first block,
 
 observation in the second block.
 
