@@ -1,6 +1,6 @@
 ITU License
 
-Copyright (c) 2021 Erdem Onur Özyurt
+Copyright (c) 2022 Erdem Onur Özyurt
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
